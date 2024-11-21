@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My favourite languages & tools:
+<hr>
+
+##My favourite languages & tools:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 
