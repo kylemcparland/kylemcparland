@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 
 
