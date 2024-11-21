@@ -9,9 +9,10 @@
 ### Personal links:
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://kylemcparland.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kyle-mcparland/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kylemcparland@gmail.com)
 
+<!--
 ### Currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kylemcparland&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kylemcparland&redirect=true)
-
+-->
 
 <!--
 **kylemcparland/kylemcparland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
