@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://google.com)
+My favourite languages & tools:
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 
 
