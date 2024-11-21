@@ -11,7 +11,7 @@
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3cJTMijo1aiWGXoHj482cx?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.kylemcparland.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
 <!--
